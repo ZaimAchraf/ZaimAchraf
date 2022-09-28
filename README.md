@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Zaim Achraf
+
+- ✨ I'm a Software Developper And Data Scientist
+- 🌱 I’m currently learning about Devops Technologies
+- 💬 Ask me about Web Technologies
+- - 📫 How to reach me: [Zaim Achraf](google.com)
 
 <!--
 **ZaimAchraf/ZaimAchraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

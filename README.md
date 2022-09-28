@@ -3,7 +3,7 @@
 - ✨ I'm a Software Developper And Data Scientist
 - 🌱 I’m currently learning about Devops Technologies
 - 💬 Ask me about Web Technologies
-- - 📫 How to reach me: [Zaim Achraf](google.com)
+- 📫 How to reach me: [Zaim Achraf](https://www.linkedin.com/in/achraf-zaim-443936233/)
 
 <!--
 **ZaimAchraf/ZaimAchraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

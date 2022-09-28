@@ -5,6 +5,8 @@
 - 💬 Ask me about Web Technologies
 - 📫 How to reach me: [Zaim Achraf](https://www.linkedin.com/in/achraf-zaim-443936233/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaimAchraf&theme=radical)
+
 <!--
 **ZaimAchraf/ZaimAchraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

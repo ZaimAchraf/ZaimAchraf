@@ -1,9 +1,12 @@
 ### Hi there 👋 I'm Zaim Achraf
 
-- ✨ I'm a Software Developper And Data Scientist
+- ✨ I'm a Software Engineer
+- 🔭 I’m currently working on CGI Solutions and Technologies
 - 🌱 I’m currently learning about Devops Technologies
 - 💬 Ask me about Web Technologies
-- 📫 How to reach me: [Zaim Achraf](https://www.linkedin.com/in/achraf-zaim-443936233/)
+- ### 🌐 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-zaim-443936233/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@achraf.zaime) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaimAchraf&theme=radical)
 
